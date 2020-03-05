@@ -1,3 +1,3 @@
 ## Eterno Cheongdam
 
-![Image](src)
+![Image](Eterno_BI.png)
