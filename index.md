@@ -1,6 +1,6 @@
 ## Welcome to Eterno Cheongdam
 
-images/Eterno_BI.png
+![Image](images/Eterno_BI.png)
 
 You can use the [editor on GitHub](https://github.com/maisondesense/eternocheongdam/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
