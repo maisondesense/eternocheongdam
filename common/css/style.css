@@ -56,3 +56,11 @@ header ul > li {
 	display: flex;
 	align-items: center;
 }
+
+#visual {
+	background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(visual.png);
+	background-size: cover;
+	background-position: 0% 20%;
+	width:100%;
+	height:600px;
+}
