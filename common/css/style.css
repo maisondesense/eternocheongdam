@@ -20,3 +20,8 @@ a {
 	text-decoration: none;
 	outline: none;
 }
+
+.container {
+	width:1440px;
+	margin:0 auto;
+}
