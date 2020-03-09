@@ -1,15 +1,19 @@
-@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR|ZCOOL+QingKe+HuangYou');
+@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans+SC|Cinzel|Inter|Open+Sans|Quicksand');
 
 * {
 	margin:0;
 	padding:0;
 	color:#000;
-	font-family: 'ZCOOL QingKe HuangYou', cursive;
+	font-family: 'Cinzel', serif;
 	box-sizing: border-box;
 }
 
 .fn-font {
-	font-family: 'Noto Sans KR', sans-serif;
+	font-family: 'Quicksand', sans-serif;
+	font-family: 'Cinzel', serif;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	font-family: 'Inter', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
 ul {
