@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans+SC|Cinzel|Inter|Open+Sans|Quicksand');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR|Alegreya+Sans+SC|Cinzel|Inter|Open+Sans|Quicksand');
 
 * {
 	margin:0;
@@ -9,11 +9,7 @@
 }
 
 .fn-font {
-	font-family: 'Quicksand', sans-serif;
-	font-family: 'Cinzel', serif;
-	font-family: 'Alegreya Sans SC', sans-serif;
-	font-family: 'Inter', sans-serif;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Noto Sans KR', sans-serif;
 }
 
 ul {
